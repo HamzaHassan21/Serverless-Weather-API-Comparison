@@ -221,11 +221,9 @@ Exhibit more pronounced cold starts
 
 Be less efficient for globally distributed workloads
 
-## References
+## References 
 
-(Preserved exactly as provided)
-
-[Full reference list unchanged for academic integrity — copy from your version]
+[References](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis/blob/main/References.md)
 
 ## Author
 ## Hamza Hassan
