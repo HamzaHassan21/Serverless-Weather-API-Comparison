@@ -67,27 +67,25 @@ Exhibits typical cold starts and regional latency
 
 Each tool includes a badge for clarity and presentation.
 
-[AWS Lambda – regional execution](https://aws.amazon.com/lambda/)
+[AWS Lambda – regional execution](https://aws.amazon.com/lambda/)  
 
-AWS Lambda – regional execution
+[Lambda@Edge – edge execution](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html)  
 
-Lambda@Edge – edge execution
+[Amazon CloudFront – CDN + edge compute](https://aws.amazon.com/cloudfront/)  
 
-Amazon CloudFront – CDN + edge compute
+[Amazon S3 – static website hosting](https://aws.amazon.com/s3/)  
 
-Amazon S3 – static website hosting
+[Amazon API Gateway – regional API entry](https://aws.amazon.com/api-gateway/)  
 
-Amazon API Gateway – regional API entry
+[Amazon CloudWatch – monitoring & metrics](https://aws.amazon.com/cloudwatch/) 
 
-Amazon CloudWatch – monitoring & metrics
+[Postman – latency and load simulation](https://www.postman.com/)  
 
-Postman – latency and load simulation
+[VPNs – simulate global users (with routing limitations)](https://nordvpn.com/)  
 
-VPNs – simulate global users (with routing limitations)
+[Python – Lambda function development](https://www.python.org/)  
 
-Python – Lambda function development
-
-GitHub – documentation and code management
+[GitHub – documentation and code management](https://github.com/)  
 
 ## Testing Methodology
 
