@@ -12,15 +12,15 @@ Distributed globally across CloudFront edge locations (Lambda@Edge)
 
 The study focuses on:
 
-# ⚡ Latency
+⚡ Latency
 
-# 🧊 Cold starts
+🧊 Cold starts
 
-# 🗺️ Geographic performance
+🗺️ Geographic performance
 
-# 📦 Cache behaviour
+📦 Cache behaviour
 
-# 📈 Scalability under load
+📈 Scalability under load
 
 ## Key Features
 
